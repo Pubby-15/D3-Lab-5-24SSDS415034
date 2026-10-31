@@ -1,6 +1,6 @@
 # Lab 5: D3.js Interactive Visualizations
 
-**Student:** 24SSDS415043  
+**Student:** 24SSDS415033  
 **Course:** BSc Data Sciences & Analytics  
 **Semester:** V - Advanced Data Analytics & Visualization
 
@@ -10,7 +10,7 @@ This repository contains the three interactive D3.js visualizations required for
 
 - `index.html` — interactive dashboard with tabs for all three visualizations.
 - `treemap.html` — standalone interactive treemap.
-- `24SSDS415043_Lab_5_D3JS.ipynb` — Colab notebook with implementation and explanations.
+- `24SSDS415033_Lab_5_D3JS.ipynb` — Colab notebook with implementation and explanations.
 
 ## GitHub Pages
 
