@@ -1,0 +1,5 @@
+# GitHub Repository Link
+https://github.com/Pubby-15/D3-Lab-5-24SSDS415034
+
+# Expected GitHub Pages Link (pending activation and verification)
+https://pubby-15.github.io/D3-Lab-5-24SSDS415034/
